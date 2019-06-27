@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/ALL/Documents/HashTab/HashTab/stack.cpp
+stack.h
+C:/Users/ALL/Documents/HashTab/HashTab/stack.h
+
+C:/Users/ALL/Documents/HashTab/HashTab/stack.h
+stdio.h
+-
+stdlib.h
+-
+iostream
+-
+assert.h
+-
+string.h
+-
+math.h
+-
+ctype.h
+-
+

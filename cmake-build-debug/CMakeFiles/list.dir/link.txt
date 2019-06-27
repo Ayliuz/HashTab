@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc liblist.a  CMakeFiles/list.dir/PtrList.cpp.obj CMakeFiles/list.dir/stack.cpp.obj CMakeFiles/list.dir/Map.cpp.obj
+C:\MinGW\bin\ranlib.exe liblist.a
